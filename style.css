@@ -1,0 +1,56 @@
+body{
+    background-image: url('360_F_253986268_I3wMfXKQvcjNVcRSLDTMfKtkvbmpAj1J.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    
+
+}
+
+.container{
+    text-align: center;
+background-color: aqua;
+width: fit-content;
+border-radius: 10px;
+box-shadow: 5px 9px 32px 3px rgba(0,0,0,0.71);
+-webkit-box-shadow: 5px 9px 32px 3px rgba(0,0,0,0.71);
+-moz-box-shadow: 5px 9px 32px 3px rgba(0,0,0,0.71);
+
+
+
+    backdrop-filter: blur(4px) saturate(118%);
+    -webkit-backdrop-filter: blur(4px) saturate(118%);
+    background-color: rgba(17, 25, 40, 0.69);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    color: white;
+    padding: 60px;
+    margin-top: 200px;
+
+}
+#guessnumber{
+    margin-top: 15px;
+    border-radius: 10px;
+
+}
+#result{
+    margin-top: 15px;
+}
+.btn-primary{
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+
+}
+.btn-primary:hover{
+    color: black;
+    background-color: gold;
+}
+.heading{
+    text-shadow: 4px 4px 10px rgba(0,0,0,0.6);
+}
+.marquee{
+    font-size: 30px;
+    color: white;
+}
